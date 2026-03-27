@@ -1,6 +1,6 @@
 # 🏴‍☠️ 路飞
 
-<img src="https://cdn.pixabay.com/photo/2023/07/27/11/46/ai-generated-8149814_1280.jpg" width="200" alt="路飞">
+<img src="https://raw.githubusercontent.com/williamqw87-bit/git/main/lufei.jpg" width="200" alt="路飞">
 
 大家好，我是蒙奇·D·路飞…
 
@@ -61,11 +61,11 @@ print(np.array([1, 2, 3]) ** 2)
 ```
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
-### 我最喜欢的环境管理工具是conda
+### 我最喜欢的环境管理工具是 conda
+<img src="https://raw.githubusercontent.com/williamqw87-bit/git/main/l1.png" width="300" alt="conda">
 
-
-### 我可以在IDE上使用我建立的虚拟环境
-
+### 我可以在 IDE 上使用我建立的虚拟环境
+<img src="https://raw.githubusercontent.com/williamqw87-bit/git/main/l2.png" width="300" alt="虚拟环境">
 
 欧拉公式可以表示为 $e^{i\pi} + 1 = 0$，这是一个著名的等式。
 
